@@ -1,0 +1,12 @@
+]0;~/data/ws/R-projects/third[?1034hmars:third thomas$ [Kmars:third thomas$ pwd
+/Users/thomas/data/ws/R-projects/third
+]0;~/data/ws/R-projects/thirdmars:third thomas$ cd [K[K[Kll
+total 16
+drwxr-xr-x  5 thomas  staff  170 Mar 29 20:39 .
+drwxr-xr-x  5 thomas  staff  170 Mar 29 20:01 ..
+-rw-r--r--  1 thomas  staff   74 Mar 29 15:11 .Rhistory
+drwxr-xr-x  4 thomas  staff  136 Mar 29 15:04 .Rproj.user
+-rw-r--r--  1 thomas  staff  205 Mar 29 20:39 third.Rproj
+]0;~/data/ws/R-projects/thirdmars:third thomas$ git init
+Initialized empty Git repository in /Users/thomas/data/ws/R-projects/third/.git/
+]0;~/data/ws/R-projects/thirdmars:third thomas$ git add .
